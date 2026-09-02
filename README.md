@@ -1,5 +1,13 @@
 ## Getting started with IAR EWPtool Utility
 
+>[!IMPORTANT]
+>
+>The EWPtool utility has been superseded and will not be further developed.
+>
+>Its functionality was fully integrated into IAR Embedded Workbench for Arm v10.10+ (available on Linux and Windows).
+><img width="1920" height="1155" alt="image" src="https://github.com/user-attachments/assets/41622bc7-0950-4039-bb5a-07feead93b85" />
+>Consider upgrading. [Evaluation version available](https://iar.com/eval).
+
 ### What is EWPtool?
 The _IAR Embedded Workbench IDE_ allows adding source files from a single folder at a time, which is fine for a few folders. Although, this process can become time-consuming in cases where there are many folders involved.
 
